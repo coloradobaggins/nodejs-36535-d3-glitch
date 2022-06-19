@@ -1,0 +1,32 @@
+[
+  {
+    "title": "lápiz",
+    "price": 65.5,
+    "thumbnail": "https://cdn4.iconfinder.com/data/icons/electronics-and-gadget-3/64/MOUSE-devices-electronics-gadget-tools-256.png",
+    "id": 1
+  },
+  {
+    "title": "lapicera",
+    "price": 55,
+    "thumbnail": "https://cdn4.iconfinder.com/data/icons/electronics-and-gadget-3/64/MOUSE-devices-electronics-gadget-tools-256.png",
+    "id": 2
+  },
+  {
+    "title": "Resma A4",
+    "price": 2054.5,
+    "thumbnail": "https://cdn4.iconfinder.com/data/icons/electronics-and-gadget-3/64/MOUSE-devices-electronics-gadget-tools-256.png",
+    "id": 5
+  },
+  {
+    "title": "Set de lapices",
+    "price": 254.5,
+    "thumbnail": "https://cdn4.iconfinder.com/data/icons/electronics-and-gadget-3/64/MOUSE-devices-electronics-gadget-tools-256.png",
+    "id": 6
+  },
+  {
+    "title": "Set de lapices 2 ",
+    "price": 154.5,
+    "thumbnail": "https://cdn4.iconfinder.com/data/icons/electronics-and-gadget-3/64/MOUSE-devices-electronics-gadget-tools-256.png",
+    "id": 7
+  }
+]
