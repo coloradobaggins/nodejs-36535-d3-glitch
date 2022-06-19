@@ -69,7 +69,9 @@ module.exports = class Contenedor{
 
         let fileData = await this.getAll();
 
-        return fileData.find((p)=> p.id===id) ?? null;
+        //return fileData.find((p)=> p.id===id) ?? null; //A glitch esto no le gusta..
+
+        return (fileData.find((p)=> p.id===id) == undefined) ? null : fileData.find((p)=> p.id===id);
     
     }
 
